@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
   name = 'bemle-pipelines',         # How you named your package folder (MyLib)
   packages = ['src'],   # Chose the same as "name"
-  version = '0.2',      # Start with a small number and increase it with every change you make
+  version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = "Automation for Machine Learning Tasks",
   long_description=long_description,
